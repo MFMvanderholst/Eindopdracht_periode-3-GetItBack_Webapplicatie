@@ -3,7 +3,7 @@ Les frameworks, bij het school MBO Utrecht is dit een eindopdracht voor periode 
 
 
 ## Deadline
-@Inleverdatum: 5 apr om 23:59
+**Inleverdatum:** 5 apr om 23:59
 
 ## Afspraken
 
@@ -32,7 +32,7 @@ Les frameworks, bij het school MBO Utrecht is dit een eindopdracht voor periode 
 - Volledige broncode van de applicatie.
 - Documentatie voor het opzetten en configureren van de applicatie.
 
-@Opmerking: Zorg ervoor dat alle persoonlijke en gevoelige informatie beveiligd is volgens de beste praktijken voor webbeveiliging. Test de applicatie grondig om ervoor te zorgen dat er geen beveiligingslekken zijn.
+**Opmerking:** Zorg ervoor dat alle persoonlijke en gevoelige informatie beveiligd is volgens de beste praktijken voor webbeveiliging. Test de applicatie grondig om ervoor te zorgen dat er geen beveiligingslekken zijn.
 
 
 ## Functionaliteiten:
@@ -120,3 +120,10 @@ Les frameworks, bij het school MBO Utrecht is dit een eindopdracht voor periode 
 + Acceptatiecriteria:
   - Admin kan gebruikersaccounts activeren, deactiveren of verwijderen.
   - Admin kan de registratiegegevens van gebruikers bekijken en bewerken.
+
+
+
+## Voortgang
+
+Project map gemaakt met het framework laravel
+Branches gemaakt volgens git worktree
