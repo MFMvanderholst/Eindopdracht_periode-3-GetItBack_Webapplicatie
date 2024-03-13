@@ -125,5 +125,7 @@ Les frameworks, bij het school MBO Utrecht is dit een eindopdracht voor periode 
 
 ## Voortgang
 
-Project map gemaakt met het framework laravel
-Branches gemaakt volgens git worktree
++ Project map gemaakt met het framework laravel
++ Branches gemaakt volgens git worktree
++ Breeze is geinstalleerd
++ Bij het installeren van breeze een email authenticatie gebruikt
