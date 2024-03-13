@@ -120,3 +120,10 @@ Les frameworks, bij het school MBO Utrecht is dit een eindopdracht voor periode 
 + Acceptatiecriteria:
   - Admin kan gebruikersaccounts activeren, deactiveren of verwijderen.
   - Admin kan de registratiegegevens van gebruikers bekijken en bewerken.
+
+
+
+## Voortgang
+
+Project map gemaakt met het framework laravel
+Branches gemaakt volgens git worktree
