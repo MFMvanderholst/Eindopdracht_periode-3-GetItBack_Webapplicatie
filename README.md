@@ -123,9 +123,25 @@ Les frameworks, bij het school MBO Utrecht is dit een eindopdracht voor periode 
 
 
 
-## Voortgang
+## Taken
 
-+ Project map gemaakt met het framework laravel
-+ Branches gemaakt volgens git worktree
-+ Breeze is geinstalleerd
-+ Bij het installeren van breeze een email authenticatie gebruikt
+- [x] Project map maken
+- [x] Branches maken met hulp van git worktree
+- [x] Breeze installeren
+- [x] Email verificatie maken
+- [ ] Database tabellen maken
+- [ ] Profiel formulier gegevens maken in dashboard
+- [ ] Admin maken
+- [ ] Admin dashboard maken
+- [ ] API werkend krijgen
+- [ ] Overzicht van alle uitgevoerde/lopende/geplande ritten
+- [ ] Ritboeking verzending maken
+- [ ] Ritboeking berekening maken
+- [ ] Ritboeking prijs berekening maken
+- [ ] Admin de mogelijkheid van het wijzigen van kilometerprijs te wijzigen
+- [ ] Admin de mogelijkheid maken om andere gebruikers ritten te bekijken en beheren
+- [ ] Gebruikers hun ritgeschiedenis bekijken en de kosten daarvan (factuur)
+- [ ] Facturen genereren op basis van voltooide ritten en de berekende kosten
+- [ ] Implementeer voor gebruikers hun facturen te downloaden of op email te krijgen
+- [ ] Het is responsive
+- [ ] \(Optioneel) gebruik van Tailwind
