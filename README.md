@@ -129,10 +129,11 @@ Les frameworks, bij het school MBO Utrecht is dit een eindopdracht voor periode 
 - [x] Branches maken met hulp van git worktree
 - [x] Breeze installeren
 - [x] Email verificatie maken
-- [ ] Database tabellen maken
+- [x] Database tabellen maken
 - [ ] Profiel formulier gegevens maken in dashboard
 - [ ] Admin maken
 - [ ] Admin dashboard maken
+- [x] API Testen
 - [ ] API werkend krijgen
 - [ ] Overzicht van alle uitgevoerde/lopende/geplande ritten
 - [ ] Ritboeking verzending maken
